@@ -2,6 +2,10 @@
 <div align="center">
 <h3>
  A social network website for developers. In this website developers can create account, connect their github account, connect with each other, post, comment on other's post.</h3> &nbsp; <br>
+ 
+ <div>
+live demo: https://hidden-ridge-66171.herokuapp.com/
+ </div>
 <div>
  <p>Technologies used </p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
@@ -14,7 +18,5 @@
 <img src="https://img.shields.io/badge/restapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="Rest Api" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  </div>
 
-<p>
-live demo: https://hidden-ridge-66171.herokuapp.com/
- </p>
+
 </div>
